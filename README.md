@@ -1,2 +1,2 @@
-# YouTube-clone
-This is  YouTube page clone.
+# YouTube-landing page
+This is  YouTube landing page.
